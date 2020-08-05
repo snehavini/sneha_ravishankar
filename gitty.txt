@@ -1,0 +1,12 @@
+
+echo "hey see this:"
+
+x=25
+
+if [$x -lt 25]
+
+then  
+     echo "hey"
+fi
+
+
